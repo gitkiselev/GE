@@ -5,7 +5,6 @@ var gulp 		= require('gulp'),
 	prefix 		= require('gulp-autoprefixer'),
 	useref 		= require('gulp-useref'),    
 	uglify 		= require('gulp-uglify'),
-	/*coffee 		= require('gulp-coffee'),*/
 	clean 		= require('gulp-clean'),
 	gulpif 		= require('gulp-if'),
 	filter 		= require('gulp-filter'),
